@@ -1,7 +1,8 @@
 # CoxFIlter
 
 CoxFIlter is a C++ program specially designed to efficiently 
-detect and remove sequences containing an abnormal count of stop codons 
+detect and remove sequences containing an abnormal count of stop codons
+This program has been designed for a Linux environment ONLY
 
 USAGE: 
    ./CoxFIlter  -f <fasta> -o <filename> [-s <filename>] -l < [integer >= 0] > [-t < [integer > 0] >] [-d] [--] [--version] [-h]
