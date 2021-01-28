@@ -1,5 +1,7 @@
 # CoxFIlter
 
+PROGRAM SOURCE CODE INCLUDED IN ADAPTI
+
 CoxFIlter is a C++ program specially designed to efficiently 
 detect and remove sequences containing an abnormal count of stop codons
 This program has been designed for a Linux environment ONLY
